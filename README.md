@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhishek Kombe</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+
+<p align="center"> <img  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> </p>
 
 # 💫 About Me:
 I am currently working on web development projects.<br>I am currently learning on React.js<br>Ask me about java.JavaScript.<br><br>
